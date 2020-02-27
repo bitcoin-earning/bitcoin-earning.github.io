@@ -10,7 +10,7 @@ h1 {
 .content {
 	display: flex;
 	width: 415px;
-	height: 415px;
+	height: 630px;
 	justify-content: space-between;
 	align-content: space-between;
 	flex-wrap: wrap;
